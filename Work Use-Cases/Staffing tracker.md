@@ -1,0 +1,13 @@
+
+- Okay, heres whats going, so we are trying to have an form that ingests information on staffing requests. Currently this is done by a microsoft form. I have tried the microsoft form and honestly, it isn't that bad. 
+	- Idea 1: 
+		- First thing I thought of was having the microsoft form stay and then taking the responses from the microsoft form and putting it into a DB.
+		- Complications
+			- The first complication is that power automate isn't on the State plan which means it can't be utilized without further communicaiton. 
+			- Second is that the excel file it feeds into lives on the state side so I would have to see if state side excel documents can be shared with non- state people. 
+			- Third is that since we can't run power automate, is there a way to just poll the excel sheet constantly for new stuff.
+		- Pros: 
+			- Requires the least amount
+	- Idea 2: 
+		- We remake the form, and then ask for an external facing thing on Amplify. So I would have to code out the form, but then I would have more flexibility in the future for things
+		- I think the thing with this is that we exchange talks with the state department to talks with Credence IT which honestly wouldn't be bad, but I would also have to hook up the auth system and security comes as more of a concern

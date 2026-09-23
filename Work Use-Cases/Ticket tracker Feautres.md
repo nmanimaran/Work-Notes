@@ -1,0 +1,22 @@
+
+- Feature: Have accounting line attached to the assignment. 
+	- A level visibility so Admin user/ Corporate People would be able to see the accounting lines
+	- Control portion of charging on different lines
+	- User Story
+		- There are three people tied to an engagement. 
+			- P1 is assigned accounting line 67
+			- P2 is also assigned 67
+			- We want P1 to be charged 60% to 67 and P2 40% to 67
+				- Would be like 60% of invoiced hours and ODCs
+- Feature: Filter service for G2G consultants
+- User Story
+	- They look at consulstants
+	- They say oh, Person A seems good for the job. 
+	- They then message Derrick saying they want Person A
+- Feature: So person who looks for a country could be one or more. So make it so that it can be a group
+	- Possibility of a person needing to see multiple groups
+		- Possibly at the same time too
+- Next Steps
+	- Do the features
+	- Meeting with Shehnaz
+	- IT
