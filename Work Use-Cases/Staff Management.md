@@ -24,4 +24,98 @@
 - If they are making a change to the Core data, then they have to do it through Change Requests
 	- And new positions get registered here too
 	- and positions are made inactive through this as well
-	- 
+- Org Family will die, it will be called bureau
+	- Each position could have 2 bureaus
+		- Funding Buereu and Organizational Bureua
+			- Usually they are both the same
+		- Org Family sheet documents the exceptsion
+		- So if its not in Org Family sheet, then Funding = Organizational
+- Archive 
+	- The issue: If Employee 4328 becomes vacant, then he just deletes it which means that the history that employee 4328 wa linked to Position HASC 1234. We don't have any historical record of it
+	- Positions Archive 
+		- 
+	- Employee Archive
+- Salaries
+	- When you get a raise, then you jsut add an end date to the initial line and then add a new line with the new salary
+- Burdens
+	- What percentage of company money goes into 401k and insurance and stuff
+- PLC
+	- Digits tied to a Position
+	- Projections for PLC
+	- Important to maintain accurate PLCs for the position
+		- Sometimes when a position is requested, they'll put in the info except for the PLC
+	- We don't care about PLC for credence positions
+		- Its only important for non-credence positions
+	- For credence positions, we care that the salary stuff is filled out\
+- Estimates Sheet
+	- You can put vacant positions in the estimates sheet and then use that for the projections
+		- Projects salary for when that position does get filled
+- Requirements
+	- Need to spit out Employer, Title, PLC, Location, Labor Type, Org Position
+	- Audit History
+	- Change Request automated
+	- Vacancy Tracker automated
+- Pain Points
+	- Kate Gibbs
+		- Wants the Notes columns in Change Requests
+		- If a person needs to add future information, same change requests process
+			- Seems like multiple people are still on hold
+		- Whenever anything is green and white, then it is dervied
+		- When a table is blue and white, then it isn't derived
+		- Position and Employee Archive Gripes
+		- Needs notes tied to specifci people
+			- It helps them keep a train of thought
+				- Notes tied to positions and notes tied to people
+		- Change Request don't get added until the person thinks they are close to coming
+			- Takes about a week of resolution
+			- For Amel, she doesn't add it in until she has most of the information
+			- When they are just waiting for information, its just stored in their head
+			- For Amel, she just has her own tracker so she just pulls it from there
+		- Shehnaz has a salary spreadsheet  that she needs
+			- What is the take home of each person
+		- When they go to Positions, they get confused when people are listed multiple times, and some positions don't have people which confuses them
+		- Is the biggest gripe of the tables in the dashboard that it doesn't filter well?
+			- Filtering by any means
+		- Columns on the Employee Tracker aren't on the Columns on the dashboarf
+- Shehnaz
+	- Request -> Recruitment Process -> Employee tracker
+		- When employee are doing employee onboarding and employee offboarding
+			- Date it goes to HR, etc.
+			- Lydia does onboarding and offboarding
+- PositionPotiential isn't warranted
+- Salary Max maybe in tblPositionDataset
+	- Seems like it will be identified somewhere else
+- Say we have a position that hits the recruitment tracker, is there a way to grab all the information, 
+	- Like templates and stuff
+	- Position description should be done by position numbers
+	- Workable?
+- Is dual citizenship is something that we need
+	- Home of record
+- A lot of confusion around location
+	- I feel like we are diving deep into CUI
+	- Position to Assignment is one to many
+		- For G2G stuff
+	- Heavy involvement by costpoint
+	- Ask Kate Gibbs about Topher 
+	- I need to meet with Wynter
+	- Still bringing up templates
+- What additional needs
+	- People may need to hav
+	- Need multiple GTMS per position
+	- Dashboard of missing information
+	- Changes you can make without approval vs approval
+		- Need to bring this up next meeting
+	- Onboarding tracker
+	- Local Nationals and Embassay, need to have a meeting with Amel on that
+	- Deadlines, 90 days before 100 days before,
+	- Names on Costpoint vs in the system
+		- Who would I talk to on this
+	- Need First Name, Middle Name, Last Name columns
+
+
+## Questions
+
+- What is CRUEL, the thing tony is working on
+- How do you figure which PLCS belong to what
+- When you get the new information, you have to go to change requests right? And then its the whole process of that
+- 
